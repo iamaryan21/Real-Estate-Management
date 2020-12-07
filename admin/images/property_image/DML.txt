@@ -1,0 +1,28 @@
+Energy - 50,000
+
+Void / Light / Shadow - 75,000
+
+Metal - 35,000
+
+Water - 17,500
+
+Fire - 5,000
+
+Legendary - 30,000
+
+Wind - 10,000
+
+Earth - 12,500
+
+Plant - 25,000
+
+
+
+Light - 7 
+
+Shadow - 8     Light + Shadow - 1
+
+Legendary - 4
+
+Void - 20
+
