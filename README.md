@@ -6,9 +6,11 @@ Installation Steps
 Import database real_estate.sql (can be found at "Real-Estate-Management-main\admin\database") from the downloaded folder.
 4. Click "http://localhost/Real-Estate-Management-main" for viewing this on your browser. (First be sure to complete the above mentioned steps) 
 5. To Login as admin click "http://localhost/Real-Estate-Management-main/admin".
+
 Note : The admin panel is not fully functional currently.
 
 Admin Login Details
 
 Login Id: anonymous@first.com
+
 Password: anonymous
