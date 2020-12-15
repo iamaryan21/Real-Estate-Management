@@ -10,10 +10,10 @@
                             Address: 20/F Mumbai, India
                         </li>
                         <li>
-                            Email: <a href="mailto:info@themevessel.com">info@propertyhuters.com</a>
+                            Email: <a href="mailto:info@propertyhuters.com">info@propertyhuters.com</a>
                         </li>
                         <li>
-                            Phone: <a href="tel:+0477-85x6-552">+91 XXXXXXXXXX</a>
+                            Phone: <a href="tel:XXXXXXXXXX">+91 XXXXXXXXXX</a>
                         </li>
                     </ul>
                 </div>
@@ -51,7 +51,7 @@
                                 <a href="properties-details.html">Beautiful Single Home</a>
                             </h5>
                             <p>February 27, 2020</p>
-                            <p> <strong>$2,00,00,000</strong></p>
+                            <p> <strong>₹2,00,00,000</strong></p>
                         </div>
                     </div>
                     <div class="media mb-4">
@@ -63,7 +63,7 @@
                                 <a href="properties-details.html">Sweet Family Home</a>
                             </h5>
                             <p>July 10, 2020</p>
-                            <p> <strong>$4,00,00,000</strong></p>
+                            <p> <strong>₹4,00,00,000</strong></p>
                         </div>
                     </div>
                     <div class="media">
@@ -75,7 +75,7 @@
                                 <a href="properties-details.html">Real Luxury Villa</a>
                             </h5>
                             <p>November 15, 2020</p>
-                            <p> <strong>$10,00,00,000</strong></p>
+                            <p> <strong>₹10,00,00,000</strong></p>
                         </div>
                     </div>
                 </div>
